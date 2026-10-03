@@ -18,7 +18,6 @@
     "about": "About",
     "sermons": "Sermons",
     "bulletins": "Bulletins",
-    "vbs": "VBS",
     "events": "Events",
     "connect": "Connect",
     "donate": "Donate"
@@ -54,27 +53,12 @@
     "empty": "This week's bulletin will appear here soon."
   },
 
-  "vbs": {
-    "title": "Vacation Bible School",
-    "description": "A week of games, crafts, music, and Bible stories for kids in our community. It's free, it's a blast, and all are welcome — bring a friend!",
-    "whenLabel": "When",
-    "dates": "July 5th, 12th, 19th, 26th, 2026",
-    "time": "6:00 PM – 7:30 PM",
-    "whoLabel": "Who",
-    "ages": "Ages 4 through 5th grade",
-    "costLabel": "Cost",
-    "costValue": "Free — everyone welcome",
-    "registerUrl": "/VBS-Registration-Form.pdf",
-    "registerLabel": "Register"
-  },
-
   "events": {
     "heading": "Upcoming Events",
     "subtitle": "Mark your calendar and join us.",
     "list": [
       { "month": "July", "day": "5", "title": "Sunday Morning Bible Study all ages", "details": "9:30 AM — " },
       { "month": "July", "day": "5", "title": "Sunday Morning Worship", "details": "10:30 AM — Sanctuary" },      
-      { "month": "July", "day": "5", "title": "Vacation Bible School", "details": "6:00 PM — 7:30 PM" },
       { "month": "July", "day": "7", "title": "Women On Mission", "details": "6:00 PM — Sanctuary" },
       { "month": "July", "day": "12", "title": "Sunday Morning Worship", "details": "10:30 AM — Main Sanctuary" },
       { "month": "July", "day": "12", "title": "Sunday Morning Bible Study all ages", "details": "9:30 AM" }
